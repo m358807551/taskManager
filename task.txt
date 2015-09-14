@@ -1,10 +1,10 @@
-创建版本库
+版本二
 
-在同一目录下创建文本task.txt
+创建版本库 ok
 
-将task.txt加入版本库
+在同一目录下创建文本task.txt ok
 
-同步到github
+将task.txt加入版本库 ok
 
 修改task.txt，将其加入版本库
 
@@ -16,6 +16,6 @@
 
 删除分支dev
 
-再次同步到github
+同步到github
 
 
